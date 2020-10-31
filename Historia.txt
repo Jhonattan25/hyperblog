@@ -1,6 +1,3 @@
 Hola
 
-¿como estas?
-
-El clima esta frio
-Va llover
+Va llover en 5 minutos
