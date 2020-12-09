@@ -9,5 +9,6 @@ En este curso vemos de todo.
 - Las personalidades multiples de Freddy
 - Ejemplo del git cherry-pick (Mala practica)
 - Incluye ejemplos en windows, Linux y Mac
+- Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. NO LO TOMES EN SERIO.
